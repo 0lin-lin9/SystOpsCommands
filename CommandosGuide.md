@@ -1,6 +1,6 @@
 # Sistemas Operativos
 
-#Repositorio Comandos
+###  :speech_balloon: Repositorio Comandos :speech_balloon:
 
 ##### - sudo apt install
 Permite instalar aplicaciones disponibles en el repositorio (se debe tener el nombre exacto de la aplicacion en el repositorio)
