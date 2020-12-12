@@ -96,7 +96,7 @@ Actualiza los repositorios
 Instala un paquete o aplicacion que se haya bajado y se encuentre en Downloads
 
 ##### - sudo telnet towel.blinkenlights.nl 
-Ver peli de Star Wars  ![StarWars](Darth-Vader.ico)   
+Ver peli de Star Wars ![StarWars](Darth-Vader.png)
 
 ##### - sudo apt update && sudo apt upgrade
 Actualiza el Sistema Operativo
