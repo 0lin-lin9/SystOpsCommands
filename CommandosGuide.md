@@ -179,7 +179,7 @@ Busca recursivamente en directorios y subdirectorios por la palabra indicada
  - con -w busca la palabra completa, es case sensitive
 
 
-#### - ZENITY
+#### 🗨️🗨️ ZENITY 🗨️🗨️
 
 ##### - zenity --info --text="Esta es una prueba"
 Muesta una ventana pop up de tipo informacion o alerta con el mensaje indicado
@@ -200,7 +200,7 @@ Muestra una ventana pop up con una pregunta
 Muestra una ventana pop up con una lista que incluye varias columnas con el resultado de los procesos de todos los usuarios
 
 
-#### - DOCKER
+#### 🤖🤖 DOCKER 🤖🤖
 
 ##### - docker images
 Muestra las imagenes/contenedores disponibles (se debe instalar docker previamente)
@@ -233,7 +233,7 @@ Permite loguear la cuenta de dockerhub y poder subir las imagenes salvadas (crea
 Sube la imagen indicada al repositorio de dockerhub (se debe loguear previamente a la cuenta)
 
 
-#### - ARCH LINUX
+#### 👽👽 ARCH LINUX  👽👽
 
 ##### - sudo pacman -Syuu
 instala actualizaciones del sistema - paquetes
